@@ -6,7 +6,6 @@ SOURCE_URLS = [
 
     "https://raw.githubusercontent.com/masir-sefid/Sub/main/Telegram-Channel-@Masir_Sefid.txt",
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt",
-    "https://etoneya.su/1",
 
 
 ]
