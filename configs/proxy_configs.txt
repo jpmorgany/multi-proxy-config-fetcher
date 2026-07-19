@@ -30,6 +30,7 @@
 
 
 
+
 hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?insecure=1&sni=www.bing.com#🇺🇸 1 - US - Hysteria2/QUIC - 14656
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇩🇪 2 - DE - Hysteria2/QUIC - 4433
@@ -38,17 +39,17 @@ hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiao
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou&security=tls#🇩🇪 4 - DE - Hysteria2/QUIC - 4433
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1#🇭🇰 5 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1#🇺🇸 5 - US - Hysteria2/QUIC - 56309
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#🇭🇰 6 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#🇺🇸 6 - US - Hysteria2/QUIC - 56309
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1&sni=hkt.ccwink.cc#🇭🇰 7 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1&sni=hkt.ccwink.cc#🇺🇸 7 - US - Hysteria2/QUIC - 56309
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#🇭🇰 8 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#🇺🇸 8 - US - Hysteria2/QUIC - 56309
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=7kdt2wzs#🇭🇰 9 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=7kdt2wzs#🇺🇸 9 - US - Hysteria2/QUIC - 56309
 
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=_y-L-jhc#🇭🇰 10 - HK - Hysteria2/QUIC - 56309
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=_y-L-jhc#🇺🇸 10 - US - Hysteria2/QUIC - 56309
 
 hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1#🇷🇴 11 - RO - Hysteria2/QUIC - 47257
 
@@ -82,17 +83,17 @@ hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-pow
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#🇹🇼 26 - TW - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1#🇸🇬 27 - SG - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1#🇺🇸 27 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#🇭🇰 28 - HK - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#🇺🇸 28 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#🇭🇰 29 - HK - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#🇺🇸 29 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇭🇰 30 - HK - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇺🇸 30 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇭🇰 31 - HK - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇺🇸 31 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https://t.me/WangCai2#🇭🇰 32 - HK - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https://t.me/WangCai2#🇺🇸 32 - US - Hysteria2/QUIC - 443
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.212.146.99:443?insecure=1#🇺🇸 33 - US - Hysteria2/QUIC - 443
 
@@ -108,19 +109,19 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1#🇺🇸 38 -
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1&nonce=VyzfN7-4#🇺🇸 39 - US - Hysteria2/QUIC - 443
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#🇹🇼 40 - TW - Hysteria2/QUIC - 443
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#🇺🇸 40 - US - Hysteria2/QUIC - 443
 
 hysteria2://Hy2%40SiLiCon2026!@43.130.7.3:8443?insecure=1&sni=bing.com#🇺🇸 41 - US - Hysteria2/QUIC - 8443
 
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1#🇳🇱 42 - NL - Hysteria2/QUIC - 443
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1#🇺🇸 42 - US - Hysteria2/QUIC - 443
 
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=nIheqZmx#🇳🇱 43 - NL - Hysteria2/QUIC - 443
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=nIheqZmx#🇺🇸 43 - US - Hysteria2/QUIC - 443
 
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=nIheqZmx#🇳🇱 44 - NL - Hysteria2/QUIC - 443
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=nIheqZmx#🇺🇸 44 - US - Hysteria2/QUIC - 443
 
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#🇳🇱 45 - NL - Hysteria2/QUIC - 443
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#🇺🇸 45 - US - Hysteria2/QUIC - 443
 
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#🇳🇱 46 - NL - Hysteria2/QUIC - 443
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#🇺🇸 46 - US - Hysteria2/QUIC - 443
 
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#🇩🇪 47 - DE - Hysteria2/QUIC/OBFS - 40460
 
@@ -160,9 +161,9 @@ hysteria2://Qre45Hk3Yh@140.233.177.48:33884?sni=www.oracle.com&obfs=salamander&o
 
 hysteria2://Xiao456.@45.205.31.175:5443?insecure=1&sni=vpn.cyedu.xyz#🇺🇸 65 - US - Hysteria2/QUIC - 5443
 
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1#🇸🇬 66 - SG - Hysteria2/QUIC - 8443
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1#🇺🇸 66 - US - Hysteria2/QUIC - 8443
 
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#🇸🇬 67 - SG - Hysteria2/QUIC - 8443
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#🇺🇸 67 - US - Hysteria2/QUIC - 8443
 
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸 68 - US - Hysteria2/QUIC - 33333
 
@@ -214,69 +215,69 @@ hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@140.245.74.46:55020?insecure=1&nonce=UiEHZl
 
 hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@140.245.74.46:55020?insecure=1&nonce=onRUdu08#🇰🇷 92 - KR - Hysteria2/QUIC - 55020
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52000?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco&security=tls#🇺🇸 93 - US - Hysteria2/QUIC/OBFS - 52000
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52000?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco&security=tls#🇫🇮 93 - FI - Hysteria2/QUIC/OBFS - 52000
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?obfs=salamander&obfs-password=ielzukpwth087afx&security=tls#🇺🇸 94 - US - Hysteria2/QUIC/OBFS - 52002
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?obfs=salamander&obfs-password=ielzukpwth087afx&security=tls#🇫🇮 94 - FI - Hysteria2/QUIC/OBFS - 52002
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx&security=tls#🇺🇸 95 - US - Hysteria2/QUIC/OBFS - 52002
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx&security=tls#🇫🇮 95 - FI - Hysteria2/QUIC/OBFS - 52002
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52003?obfs=salamander&obfs-password=5xo4v7u2pv8bktvb&security=tls#🇺🇸 96 - US - Hysteria2/QUIC/OBFS - 52003
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52003?obfs=salamander&obfs-password=5xo4v7u2pv8bktvb&security=tls#🇫🇮 96 - FI - Hysteria2/QUIC/OBFS - 52003
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52003?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb&security=tls#🇺🇸 97 - US - Hysteria2/QUIC/OBFS - 52003
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52003?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb&security=tls#🇫🇮 97 - FI - Hysteria2/QUIC/OBFS - 52003
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52005?obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls#🇺🇸 98 - US - Hysteria2/QUIC/OBFS - 52005
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52005?obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls#🇫🇮 98 - FI - Hysteria2/QUIC/OBFS - 52005
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52005?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls#🇺🇸 99 - US - Hysteria2/QUIC/OBFS - 52005
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52005?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=xurzv3qedv07k4f0&security=tls#🇫🇮 99 - FI - Hysteria2/QUIC/OBFS - 52005
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls#🇺🇸 100 - US - Hysteria2/QUIC/OBFS - 52008
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls#🇫🇮 100 - FI - Hysteria2/QUIC/OBFS - 52008
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#🇺🇸 101 - US - Hysteria2/QUIC/OBFS - 52008
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#🇫🇮 101 - FI - Hysteria2/QUIC/OBFS - 52008
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#🇺🇸 102 - US - Hysteria2/QUIC/OBFS - 52008
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#🇫🇮 102 - FI - Hysteria2/QUIC/OBFS - 52008
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls#🇺🇸 103 - US - Hysteria2/QUIC/OBFS - 52008
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls#🇫🇮 103 - FI - Hysteria2/QUIC/OBFS - 52008
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#🇺🇸 104 - US - Hysteria2/QUIC/OBFS - 52009
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#🇫🇮 104 - FI - Hysteria2/QUIC/OBFS - 52009
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#🇺🇸 105 - US - Hysteria2/QUIC/OBFS - 52009
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#🇫🇮 105 - FI - Hysteria2/QUIC/OBFS - 52009
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt&security=tls#🇺🇸 106 - US - Hysteria2/QUIC/OBFS - 52009
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52009?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt&security=tls#🇫🇮 106 - FI - Hysteria2/QUIC/OBFS - 52009
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#🇺🇸 107 - US - Hysteria2/QUIC/OBFS - 52013
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#🇫🇮 107 - FI - Hysteria2/QUIC/OBFS - 52013
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs&security=tls#🇺🇸 108 - US - Hysteria2/QUIC/OBFS - 52013
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs&security=tls#🇫🇮 108 - FI - Hysteria2/QUIC/OBFS - 52013
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52016?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fsc92dsh321o5h3r&security=tls#🇺🇸 109 - US - Hysteria2/QUIC/OBFS - 52016
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52016?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fsc92dsh321o5h3r&security=tls#🇫🇮 109 - FI - Hysteria2/QUIC/OBFS - 52016
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr&security=tls#🇺🇸 110 - US - Hysteria2/QUIC/OBFS - 52018
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52018?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr&security=tls#🇫🇮 110 - FI - Hysteria2/QUIC/OBFS - 52018
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52020?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a&security=tls#🇺🇸 111 - US - Hysteria2/QUIC/OBFS - 52020
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52020?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kkh2qmrbxmh8h22a&security=tls#🇫🇮 111 - FI - Hysteria2/QUIC/OBFS - 52020
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#🇺🇸 112 - US - Hysteria2/QUIC/OBFS - 52021
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#🇫🇮 112 - FI - Hysteria2/QUIC/OBFS - 52021
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et&security=tls#🇺🇸 113 - US - Hysteria2/QUIC/OBFS - 52021
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et&security=tls#🇫🇮 113 - FI - Hysteria2/QUIC/OBFS - 52021
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2&security=tls#🇺🇸 114 - US - Hysteria2/QUIC/OBFS - 52023
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2&security=tls#🇫🇮 114 - FI - Hysteria2/QUIC/OBFS - 52023
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52032?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hc7wdqfxl9wi1y8z&security=tls#🇺🇸 115 - US - Hysteria2/QUIC/OBFS - 52032
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52032?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hc7wdqfxl9wi1y8z&security=tls#🇫🇮 115 - FI - Hysteria2/QUIC/OBFS - 52032
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?obfs=salamander&obfs-password=w0tx1ju9iix6913p&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇺🇸 116 - US - Hysteria2/QUIC/OBFS - 52034
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?obfs=salamander&obfs-password=w0tx1ju9iix6913p&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇫🇮 116 - FI - Hysteria2/QUIC/OBFS - 52034
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#🇺🇸 117 - US - Hysteria2/QUIC/OBFS - 52034
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#🇫🇮 117 - FI - Hysteria2/QUIC/OBFS - 52034
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇺🇸 118 - US - Hysteria2/QUIC/OBFS - 52034
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇫🇮 118 - FI - Hysteria2/QUIC/OBFS - 52034
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52038?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=957df5ae9ci6tkbk&security=tls#🇺🇸 119 - US - Hysteria2/QUIC/OBFS - 52038
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52038?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=957df5ae9ci6tkbk&security=tls#🇫🇮 119 - FI - Hysteria2/QUIC/OBFS - 52038
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52051?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&security=tls#🇺🇸 120 - US - Hysteria2/QUIC/OBFS - 52051
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52051?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k&security=tls#🇫🇮 120 - FI - Hysteria2/QUIC/OBFS - 52051
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje&security=tls#🇺🇸 121 - US - Hysteria2/QUIC/OBFS - 52061
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje&security=tls#🇫🇮 121 - FI - Hysteria2/QUIC/OBFS - 52061
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#🇺🇸 122 - US - Hysteria2/QUIC/OBFS - 52062
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w#🇫🇮 122 - FI - Hysteria2/QUIC/OBFS - 52062
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇺🇸 123 - US - Hysteria2/QUIC/OBFS - 52062
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=hg7rfvz151ftjh0w&security=tls&mport=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree#🇫🇮 123 - FI - Hysteria2/QUIC/OBFS - 52062
 
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52067?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj&security=tls#🇺🇸 124 - US - Hysteria2/QUIC/OBFS - 52067
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52067?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj&security=tls#🇫🇮 124 - FI - Hysteria2/QUIC/OBFS - 52067
 
 hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇫🇮 125 - FI - Hysteria2/QUIC/OBFS - 8443
 
@@ -330,11 +331,11 @@ hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&obfs=salama
 
 hysteria2://eltgrek81o6w5cd4@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&security=tls&fm={&nonce=eoTAtXpY&fp=qq#🇩🇪 150 - DE - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🇻🇳 151 - VN - Hysteria2/QUIC/OBFS - 443
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🇺🇸 151 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🇻🇳 152 - VN - Hysteria2/QUIC/OBFS - 443
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🇺🇸 152 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=&nonce=CLZoHgeD#🇻🇳 153 - VN - Hysteria2/QUIC/OBFS - 443
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=&nonce=CLZoHgeD#🇺🇸 153 - US - Hysteria2/QUIC/OBFS - 443
 
 hysteria2://grape_288923@82.22.53.30:8080?sni=grape-coffee-fi.gleeze.com#🇮🇸 154 - IS - Hysteria2/QUIC - 8080
 
@@ -346,17 +347,17 @@ hysteria2://grape_288923@82.22.53.30:8443?sni=grape-coffee-fi.gleeze.com#🇮�
 
 hysteria2://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:8443?sni=russiapower.accesscam.org#🇪🇪 158 - EE - Hysteria2/QUIC - 8443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 159 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇺🇸 159 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 160 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇺🇸 160 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇳🇱 161 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls#🇺🇸 161 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=ikG43wtC#🇳🇱 162 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=ikG43wtC#🇺🇸 162 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=sOd_DCRO#🇳🇱 163 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=sOd_DCRO#🇺🇸 163 - US - Hysteria2/QUIC/OBFS - 443
 
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=tvAd7_J8#🇳🇱 164 - NL - Hysteria2/QUIC/OBFS - 443
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&security=tls&nonce=tvAd7_J8#🇺🇸 164 - US - Hysteria2/QUIC/OBFS - 443
 
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🇳🇱 165 - NL - Hysteria2/QUIC/OBFS - 443
 
@@ -396,15 +397,15 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1#🇸🇬 182 -
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&nonce=BMKylyUf#🇸🇬 183 - SG - Hysteria2/QUIC - 443
 
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🇷🇺 184 - RU - Hysteria2/QUIC/OBFS - 9443
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🇺🇸 184 - US - Hysteria2/QUIC/OBFS - 9443
 
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🇷🇺 185 - RU - Hysteria2/QUIC/OBFS - 9443
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🇺🇸 185 - US - Hysteria2/QUIC/OBFS - 9443
 
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&security=tls#🇷🇺 186 - RU - Hysteria2/QUIC/OBFS - 9443
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&security=tls#🇺🇸 186 - US - Hysteria2/QUIC/OBFS - 9443
 
-trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=/eyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&fp=chrome#🇫🇷 1 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=/eyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&fp=chrome#🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=/eyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&fp=firefox#🇫🇷 2 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=/eyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev&fp=firefox#🇺🇸 2 - US - Trojan/WS/TLS/UTLS - 443
 
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org&fp=firefox#🇵🇭 3 - PH - Trojan/TLS/UTLS - 2398
 
@@ -478,13 +479,13 @@ trojan://MiTiVPN@199.232.78.140:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/--
 
 trojan://MiTiVPN@199.232.78.140:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NLL-a&security=tls&alpn=h2,http/1.1&sni=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws#🇺🇸 38 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0&fp=android#🇱🇹 39 - LT - Trojan/XHTTP/TLS/UTLS - 443
+trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0&fp=android#🇺🇸 39 - US - Trojan/XHTTP/TLS/UTLS - 443
 
-trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0&fp=edge#🇱🇹 40 - LT - Trojan/XHTTP/TLS/UTLS - 443
+trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&sni=ww.offers.de5.net&insecure=0&allowInsecure=0&fp=edge#🇺🇸 40 - US - Trojan/XHTTP/TLS/UTLS - 443
 
-trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&sni=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&fp=ios#🇱🇹 41 - LT - Trojan/XHTTP/TLS/UTLS - 443
+trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&sni=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&fp=ios#🇺🇸 41 - US - Trojan/XHTTP/TLS/UTLS - 443
 
-trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&sni=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&fp=safari#🇱🇹 42 - LT - Trojan/XHTTP/TLS/UTLS - 443
+trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&sni=bvck-oizksj-swin-usje-c-o.offers.de5.net&mode=stream-one&fp=safari#🇺🇸 42 - US - Trojan/XHTTP/TLS/UTLS - 443
 
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🇮🇪 43 - IE - Trojan/TLS - 443
 
@@ -506,21 +507,21 @@ trojan://humanity@216.24.57.1:443?security=tls&sni=www.creationlong.org&type=ws&
 
 trojan://humanity@216.24.57.1:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=random#🇺🇸 52 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=firefox#🇫🇷 53 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=firefox#🇺🇸 53 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=ios#🇫🇷 54 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=ios#🇺🇸 54 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=qq#🇫🇷 55 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=qq#🇺🇸 55 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=random#🇫🇷 56 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org&fp=random#🇺🇸 56 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=android#🇫🇷 57 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=android#🇺🇸 57 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=edge#🇫🇷 58 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=edge#🇺🇸 58 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=qq#🇫🇷 59 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=qq#🇺🇸 59 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=random#🇫🇷 60 - FR - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=random#🇺🇸 60 - US - Trojan/WS/TLS/UTLS - 443
 
 trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#🇺🇸 61 - US - Trojan/WS/TLS/UTLS - 443
 
@@ -534,7 +535,7 @@ trojan://yPhs_gnR-otT1WtRbx-SPes05MoY1LPh@ggsel.windowshouse.xyz:9433?security=t
 
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?type=ws#🇳🇱 1 - NL - VLESS/WS - 12068
 
-vless://1ebd0a03-3ffd-47f2-80e8-3b701ef2a49a@sub.anespy.xyz:3351?type=tcp&security=none&encryption=none#🇫🇮 2 - FI - VLESS - 3351
+vless://1ebd0a03-3ffd-47f2-80e8-3b701ef2a49a@sub.anespy.xyz:3351?type=tcp&security=none&encryption=none#🇺🇸 2 - US - VLESS - 3351
 
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&security=tls&fp=chrome&sni=gbos2.osvp.online&mode=gun&serviceName=grpc-api#🇬🇧 3 - GB - VLESS/GRPC/TLS/UTLS - 443
 
@@ -554,13 +555,13 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?type=tcp&security=
 
 vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@ppm.nsuex.com:55715?type=tcp&security=none&encryption=none#🇬🇧 11 - GB - VLESS - 55715
 
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@x9k-7m.se.auragg.org:8444?type=grpc&security=reality&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&sid=d6b2e9f1a4c8d3f5&sni=cloudflare.com&serviceName=auragrpc#🇩🇪 12 - DE - VLESS/GRPC/REALITY/PBK/SID - 8444
+vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@x9k-7m.se.auragg.org:8444?type=grpc&security=reality&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&sid=d6b2e9f1a4c8d3f5&sni=cloudflare.com&serviceName=auragrpc#🇺🇸 12 - US - VLESS/GRPC/REALITY/PBK/SID - 8444
 
 vless://a09b6dfa-e48a-0d75-bcad-df385fa5b73a@westmusic.ojcenter.com:3468?type=tcp&security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&sid=b6eae5ce&sni=telewebion.ir&_t=d39084ae#🇳🇱 13 - NL - VLESS/REALITY/PBK/SID - 3468
 
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sni=www.wikihow.com#🇫🇮 14 - FI - VLESS/REALITY/PBK/VISION - 443
 
-vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast_s89.screw.page:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fast_s89.screw.page#🇺🇸 15 - US - VLESS/TLS/VISION/UTLS - 443
+vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast_s89.screw.page:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fast_s89.screw.page#🇩🇪 15 - DE - VLESS/TLS/VISION/UTLS - 443
 
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&security=none&encryption=none#🇹🇼 16 - TW - VLESS - 10000
 
@@ -568,7 +569,7 @@ vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&securi
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=random&sni=sca35.afterdomain.shop#🇺🇸 18 - US - VLESS/GRPC/TLS/UTLS - 443
 
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=fn.fifapes.monster&headerType=http#🇫🇮 19 - FI - VLESS - 2090
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=fn.fifapes.monster&headerType=http#🇺🇸 19 - US - VLESS - 2090
 
 vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🏳️ 20 - XX - VLESS/WS - 80
 
@@ -590,5 +591,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggNSAtIFVTIC0gVk1lc3MvVExTL1VUTFMgLSAx
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggNiAtIFVTIC0gVk1lc3MvVExTIC0gMTAwODYiLCAiYWRkIjogIjQ1LjIwNS4zMS4xNzUiLCAicG9ydCI6IDEwMDg2LCAiaWQiOiAiMzNmMzg3NTgtODFkMi00M2IwLWE3NGEtMmQ3YzcwZWEyN2M4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAiaG9zdCI6ICJ2cG4uY3llZHUueHl6IiwgInRscyI6ICJ0bHMiLCAic25pIjogInZwbi5jeWVkdS54eXoiLCAidHlwZSI6ICJub25lIiwgInBhdGgiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7rwn4e4IDYgLSBVUyAtIFZNZXNzL1RMUyAtIDEwMDg2In0=
 
-vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7rwn4e4IDcgLSBVUyAtIFZNZXNzL1dTIC0gODAifQ==
+vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAifQ==
 
